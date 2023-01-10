@@ -27,7 +27,6 @@ body {
     border-radius: 23px;
     position: relative;
     display: flex;
-    /* overflow: hidden; */
 }
 
 .img-ordi.desktop {
